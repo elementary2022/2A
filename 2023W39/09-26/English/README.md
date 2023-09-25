@@ -6,7 +6,7 @@
 #### 拼读下列单词和词组
 - morning 早晨
 - fine 健康的
-- afternoon ド午
+- afternoon 下午
 - apple 苹果
 - evening 晚上
 - bag 包
