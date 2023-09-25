@@ -1,6 +1,20 @@
 ### Oxford Shanghai
 ### Longman
 ### Duolingo
+- Mr
+- Mrs
+- Husband
+- Busy
+- Today
+- Best
+- Friend
+- Our
+- Red
+- White
+- Blue
+- Room
+- Important
+- They
 ### Youtube
 ---
 #### 拼读下列单词和词组
@@ -11,9 +25,9 @@
 - evening 晚上
 - bag 包
 #### 读出下列句子
-- Good worning. 早上好。
-- Good afternoan.下午好。
-- Good erening. 晚上好。
+- Good morning. 早上好。
+- Good afternoon.下午好。
+- Good evening. 晚上好。
 - Good night.晚安。
 - And you? 你呢？
 - Not too bad. 还不错。
@@ -25,7 +39,7 @@
    - B: Good morning. 早上好。
 2. 
    - A: Goodbye, Alice. 再见 Alice。
-   - B: Goodlbyo, Mary. 再见 Mary。
+   - B: Goodbye, Mary. 再见 Mary。
 3. 
    - A: How are you? 你好™？
    - B: I'm fine. Thank you. 我很好。谢谢你。
