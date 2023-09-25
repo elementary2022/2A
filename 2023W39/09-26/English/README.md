@@ -24,8 +24,8 @@
    - A: Good morning. 早上好。
    - B: Good morning. 早上好。
 2. 
-   - A: Goodbye, Alice. 再児、愛間．。
-   - B: Goodlbyo, Mary.再児，理前。
+   - A: Goodbye, Alice. 再见 Alice。
+   - B: Goodlbyo, Mary. 再见 Mary。
 3. 
    - A: How are you? 你好™？
    - B: Tim fine. Thank you. 現役好。ov。
