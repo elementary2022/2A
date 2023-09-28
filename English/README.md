@@ -34,3 +34,4 @@
 - [10-02](../2023W40/10-02/English/README.md)
 - [10-03](../2023W40/10-03/English/README.md)
 - [10-04](../2023W40/10-04/English/README.md)
+- [10-05](../2023W40/10-05/English/README.md)
