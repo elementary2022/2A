@@ -49,3 +49,5 @@
 #### 2023W42
 - [10-16](../2023W42/10-16/English/README.md)
 - [10-17](../2023W42/10-17/English/README.md)
+- [10-18](../2023W42/10-18/English/README.md)
+- [10-19](../2023W42/10-19/English/README.md)
