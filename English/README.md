@@ -51,3 +51,11 @@
 - [10-17](../2023W42/10-17/English/README.md)
 - [10-18](../2023W42/10-18/English/README.md)
 - [10-19](../2023W42/10-19/English/README.md)
+- [10-20](../2023W42/10-20/English/README.md)
+- [10-21](../2023W42/10-21/English/README.md)
+- [10-22](../2023W42/10-22/English/README.md)
+
+#### 2023W43
+- [10-23](../2023W43/10-23/English/README.md)
+- [10-24](../2023W43/10-24/English/README.md)
+- [10-25](../2023W43/10-25/English/README.md)

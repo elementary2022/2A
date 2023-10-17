@@ -6,7 +6,10 @@ fi
 today="$(date -r $(($(date +%s) + $off * 86400)) +%Y'W'%W'/'%m'-'%d)"
 mkdir -p "${today}"
 pushd "${today}"
-touch "README.md"
+x="README.md"
+if [[ ! -f $x ]]; then
+    install ../../example/TODAY_README.md $x
+fi;
 for x in Lang Math English; do
     mkdir -p "${x}"
     pushd "${x}"
