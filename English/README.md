@@ -59,3 +59,6 @@
 - [10-23](../2023W43/10-23/English/README.md)
 - [10-24](../2023W43/10-24/English/README.md)
 - [10-25](../2023W43/10-25/English/README.md)
+- [10-26](../2023W43/10-26/English/README.md)
+- [10-27](../2023W43/10-27/English/README.md)
+- [10-28](../2023W43/10-28/English/README.md)
