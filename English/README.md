@@ -71,3 +71,15 @@
 - [11-02](../2023W44/11-02/English/README.md)
 - [11-03](../2023W44/11-03/English/README.md)
 - [11-04](../2023W44/11-04/English/README.md)
+
+#### 2023W45
+- [11-08](../2023W45/11-08/English/README.md)
+- [11-09](../2023W45/11-09/English/README.md)
+- [11-10](../2023W45/11-10/English/README.md)
+- [11-11](../2023W45/11-11/English/README.md)
+- [11-12](../2023W45/11-12/English/README.md)
+
+#### 2023W46
+- [11-13](../2023W46/11-13/English/README.md)
+- [11-14](../2023W46/11-14/English/README.md)
+- [11-15](../2023W46/11-15/English/README.md)
