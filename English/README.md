@@ -93,3 +93,9 @@
 - [11-23](../2023W47/11-23/English/README.md)
 - [11-24](../2023W47/11-24/English/README.md)
 - [11-25](../2023W47/11-25/English/README.md)
+- [11-26](../2023W47/11-26/English/README.md)
+
+#### 2023W48
+- [11-27](../2023W48/11-27/English/README.md)
+- [11-28](../2023W48/11-28/English/README.md)
+- [11-29](../2023W48/11-29/English/README.md)
